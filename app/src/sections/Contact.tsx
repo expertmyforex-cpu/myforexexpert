@@ -9,8 +9,8 @@ const CONTACT_DETAILS = [
   {
     icon: MessageCircle,
     label: 'WhatsApp',
-    value: '+92 301 7777776',
-    href: 'https://wa.me/923017777776',
+    value: '+92 3127777880',
+    href: 'https://wa.me/923127777880',
     color: '#00FF99',
   },
   {
